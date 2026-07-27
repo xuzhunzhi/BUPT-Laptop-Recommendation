@@ -4,13 +4,13 @@
 
 ## 配置
 
-CPU：
+CPU：Intel Core i9 14900HX
 
-GPU：
+GPU：Nvidia GeForce RTX 4060
 
-RAM：
+RAM：16G DDR5 5600MT/s插槽内存
 
-ROM：
+ROM：1TB固态硬盘
 
 屏幕：
 
