@@ -1,6 +1,6 @@
 # 笔记本推荐系列
 
-北邮数码社撰写的笔记本推荐系列文章。在线浏览与 PDF 下载请访问 [GitHub 仓库](https://github.com/xuzhunzhi/BUPT-Laptop-Recommendation)。
+北邮数码社撰写的笔记本推荐系列文章。
 
 ## 目录结构
 
