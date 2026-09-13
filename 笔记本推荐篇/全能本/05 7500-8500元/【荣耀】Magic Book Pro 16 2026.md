@@ -1,6 +1,6 @@
 > 创建日期：
 
-# RedmiBook Pro 16 2025云评
+# 荣耀 Magic Book Pro 16 2026云评
 
 ## 配置
 
